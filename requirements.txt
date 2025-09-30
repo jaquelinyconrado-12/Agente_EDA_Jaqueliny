@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-google-genai
+langgraph
+langchain_experimental
+langchainhub
+google-generativeai  # <-- ESTA LINHA ESTAVA FALTANDO
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+python-dotenv
+openai
